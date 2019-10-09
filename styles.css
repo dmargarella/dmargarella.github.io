@@ -1,1 +1,11 @@
+body {
+    background-color:gainsboro;
+}
 
+.raccoon {
+    float: right;
+}
+
+h1 {
+    color:grey
+}
