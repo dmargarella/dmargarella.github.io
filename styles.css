@@ -6,6 +6,10 @@ body {
     float: right;
 }
 
+.natural {
+    float: left;
+}
+
 h1 {
     color:grey
 }
